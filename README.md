@@ -1,0 +1,1 @@
+# Ransonware Escrito em Python
